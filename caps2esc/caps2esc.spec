@@ -38,3 +38,6 @@ another key.
 
 
 %changelog
+* Thu Oct 03 2024 Severen Redwood <sev@severen.dev> 0.3.2-1
+- New package built.
+
