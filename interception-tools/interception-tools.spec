@@ -46,6 +46,7 @@ install -m 644 %{SOURCE1} %{buildroot}/usr/lib/systemd/system
 
 
 %changelog
+* Sat Apr 19 2025 bri rec <copr@ibeep.com> 0.6.8-2
+- bump everything.
 * Thu Oct 03 2024 Severen Redwood <sev@severen.dev> 0.6.8-1
 - New package built.
-
