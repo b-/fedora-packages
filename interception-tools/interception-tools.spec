@@ -1,6 +1,6 @@
 Name:           interception-tools
 Version:        0.6.8
-Release:        %autorelease
+Release:        2%{?dist}
 Summary:        A minimal and composable infrastructure on top of libudev and libevdev
 License:        GPL-3.0-or-later
 URL:            https://gitlab.com/interception/linux/tools
